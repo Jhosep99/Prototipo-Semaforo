@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#line 1 "C:\\Users\\jdgar\\Documents\\Arduino\\sketch_nov30a\\sketch_nov30a.ino"
+
 // Semáforo para coches y peatones ARDUINO
 int carRed1 = 2 ;
 int carYellow1 = 3;
